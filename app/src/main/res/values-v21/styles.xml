@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme101010" parent="android:Theme.Material">
+    <!-- Customize your theme here. -->
+        <!-- Color of Action Bar -->
+        <item name="android:colorPrimary">@color/colorPrimary</item>
+        <!-- Color of Status Bar -->
+        <item name="android:colorPrimaryDark">@color/colorPrimaryDark</item>
+        <!-- Text Color of Action Bar Bar -->
+        <item name="android:textColorPrimary">@color/textColorPrimary</item>
+        <!-- Text Color of Activity Background -->
+        <item name="android:windowBackground">@color/colorAccent</item>
+        <!-- Text Color of navigationBarColor -->
+        <item name="android:navigationBarColor">@color/navigationBarColor</item>
+</style>
+</resources>
